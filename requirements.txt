@@ -1,0 +1,1 @@
+In order to run this script you must use pip to install genai as shown in the README.md, you must also have a google API key of your own.
