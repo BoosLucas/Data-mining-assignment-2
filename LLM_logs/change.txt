@@ -1,0 +1,1 @@
+These are htmls of my talks with google geminai, I changed a good portion of the code it gave me, as well as combining some code, and I verified every line of code it gave me.
